@@ -1,2 +1,3 @@
-# test-for-nirdio
-this is a test app
+#NIRDIO IS SO COOL
+
+I'm really excited about this githook
